@@ -12,7 +12,11 @@ Preview da interface
 Funcionalidades:
 
 Interface Gráfica;
+
 Valida os valores de entrada;
+
 Cálculo;
+
 Mensagem de erro;
+
 Obs: Para valores não inteiros, exemplo: 6,1 , utilizar 6.1
