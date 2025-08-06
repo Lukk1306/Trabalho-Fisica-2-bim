@@ -9,7 +9,7 @@ Foi projetada para resolver um problema específico de física sobre o campo mag
 Preview da interface
 <img width="589" height="396" alt="image" src="https://github.com/user-attachments/assets/f850a5d1-8d1c-44eb-a462-c137d74bd571" />
 
-Funcionalidades
+Funcionalidades:
 Interface Gráfica;
 Valida os valores de entrada;
 Cálculo;
